@@ -4,3 +4,5 @@ requirements.txt:
 - `streamlit`
 - `pyvis`
 - `networkx`
+
+Abrir el link que da la linea de comando.
